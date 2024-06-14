@@ -1,4 +1,4 @@
-# Desafio CréditoExpress - API para Simulação de Empréstimos Financeiros
+# Projeto - API para Simulação de Empréstimos Financeiros
 
 ## Descrição do Projeto
 
